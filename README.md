@@ -120,14 +120,14 @@ Diagram: Hook Flow
 Here is a conceptual flow diagram showing how the hook/trampoline works:
 
 ./image.png
+
+Conceptual Flow:
+
 [Original Function Address]  
       ↓ patch first few bytes  
  [Jump to Custom Function]  
       ↓ optionally call original/trampoline  
  [Restored/Trampolined Original Function]
-
-You can embed a proper image or SVG here if you have one.
-
 
 ---
 
