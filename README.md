@@ -119,7 +119,7 @@ Diagram: Hook Flow
 
 Here is a conceptual flow diagram showing how the hook/trampoline works:
 
-./image.png
+![Hook Flow](./image.png)
 
 Conceptual Flow:
 
