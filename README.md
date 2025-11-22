@@ -204,5 +204,3 @@ Resources & References
 “Best Practices for GitHub Markdown Badges” — daily.dev article. 
 
 Shields.io badge generator — create custom badges easily. 
-
-More on hook/injection techniques: (Add links to blog posts, papers, or tutorials you used)
