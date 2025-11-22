@@ -119,6 +119,7 @@ Diagram: Hook Flow
 
 Here is a conceptual flow diagram showing how the hook/trampoline works:
 
+./image.png
 [Original Function Address]  
       ↓ patch first few bytes  
  [Jump to Custom Function]  
